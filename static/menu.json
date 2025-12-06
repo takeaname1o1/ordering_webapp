@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "category": "Classic Momo",
+    "name": "Tibetan Steamed Momo",
+    "desc": "6 Pcs of Buttery Indo-Tibetan Style Momos served with Chilli Oil & Spicy Chutney.",
+    "variants": [
+      { "type": "VEG", "price": 49 },
+      { "type": "NON-VEG", "price": 59 }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Classic Momo",
+    "name": "Peri-Peri Fried Momo",
+    "desc": "6 Pcs of Indo-Tibetan Deep Fried Momos served with Mayo & Spicy Chutney.",
+    "variants": [
+      { "type": "VEG", "price": 69 },
+      { "type": "NON-VEG", "price": 79 }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Classic Momo",
+    "name": "Tibetan Panfried Momo",
+    "desc": "6 Pcs of Indo-Tibetan Deep Fried Momos tossed in Indo-Chinese Pan Fried Sauce.",
+    "variants": [
+      { "type": "VEG", "price": 89 },
+      { "type": "NON-VEG", "price": 99 }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Classic Momo",
+    "name": "Tibetan Butter-Garlic Momo",
+    "desc": "6 Pcs of Indo-Tibetan Deep Fried Momos tossed with Amul Butter & Fried Garlic.",
+    "variants": [
+      { "type": "VEG", "price": 99 },
+      { "type": "NON-VEG", "price": 109 }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Signature Momo",
+    "name": "Nepalese Crispy Momo",
+    "desc": "6 Pcs of Indo-Tibetan Crispy Deep Fried Momos served with Mayo & Spicy Chutney.",
+    "variants": [
+      { "type": "VEG", "price": 99 },
+      { "type": "NON-VEG", "price": 99 }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Signature Momo",
+    "name": "Indo-Persian Afghani Momo",
+    "desc": "6 Pcs of Indo-Tibetan Deep Fried Momos perfectly cooked in Creamy Afghani Gravy.",
+    "variants": [
+      { "type": "VEG", "price": 119 },
+      { "type": "NON-VEG", "price": 119 }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Signature Momo",
+    "name": "Italian Alfredo Momo",
+    "desc": "6 Pcs of Indo-Tibetan Momos perfectly cooked in Italian Cheesy Alfredo Sauce.",
+    "variants": [
+      { "type": "VEG", "price": 139 },
+      { "type": "NON-VEG", "price": 139 }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Signature Momo",
+    "name": "Garlic & Cheese Momo",
+    "desc": "Well That's a Surprise! Try Now!",
+    "variants": [
+      { "type": "VEG", "price": 159 }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Starters",
+    "name": "Drumstick",
+    "desc": "Crispy fried chicken drumsticks.",
+    "variants": [
+      { "type": "2 PCS", "price": 59 },
+      { "type": "4 PCS", "price": 109 },
+      { "type": "8 PCS", "price": 209 }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Starters",
+    "name": "Drums of Heaven",
+    "desc": "Chicken lollipops tossed in spicy sauce.",
+    "variants": [
+      { "type": "2 PCS", "price": 79 },
+      { "type": "4 PCS", "price": 149 },
+      { "type": "8 PCS", "price": 299 }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Starters",
+    "name": "Chicken Finger",
+    "desc": "Deep fried breaded chicken strips.",
+    "variants": [
+      { "type": "2 PCS", "price": 59 },
+      { "type": "4 PCS", "price": 109 },
+      { "type": "8 PCS", "price": 209 }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Starters",
+    "name": "Fish Finger",
+    "desc": "Deep fried breaded fish fingers.",
+    "variants": [
+      { "type": "2 PCS", "price": 59 },
+      { "type": "4 PCS", "price": 109 },
+      { "type": "8 PCS", "price": 209 }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Starters",
+    "name": "Crispy Chilli Babycorn",
+    "desc": "Crispy fried babycorn tossed in chilli sauce.",
+    "variants": [
+      { "type": "VEG", "price": 129 }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Starters",
+    "name": "Loaded French Fries",
+    "desc": "French fries loaded with toppings.",
+    "variants": [
+      { "type": "VEG", "price": 79 }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Platters & Combos",
+    "name": "Jumbo Platter",
+    "desc": "7 Varieties, 14 Pcs & 2 Dips.",
+    "variants": [
+      { "type": "VEG", "price": 199 },
+      { "type": "NON-VEG", "price": 199 }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Platters & Combos",
+    "name": "Fried Rice Combo",
+    "desc": "Served with choice of Chilli Paneer (Veg) or Chilli Chicken (Non-Veg).",
+    "variants": [
+      { "type": "VEG", "price": 99 },
+      { "type": "NON-VEG", "price": 99 }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Platters & Combos",
+    "name": "Hakka Noodles Combo",
+    "desc": "Served with choice of Chilli Paneer (Veg) or Chilli Chicken (Non-Veg).",
+    "variants": [
+      { "type": "VEG", "price": 99 },
+      { "type": "NON-VEG", "price": 99 }
+    ]
+  }
+]
