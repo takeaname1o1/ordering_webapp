@@ -1,6 +1,8 @@
-![Demo](static/demo.gif)
+
 
 # Nepali Momo – restaurant management system 
+
+![Demo](static/demo.gif)
 
 🔗 **Live Site:** https://nepalimomos.pythonanywhere.com/  
 🔐 **Admin Panel:** https://nepalimomos.pythonanywhere.com/adminmomo
